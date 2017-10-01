@@ -1,0 +1,18 @@
+Scale: 1": 275m
+Base size:
+Asteroids:
+2	Large
+1	Medium
+3	Small
+
+Ships:
+1	Roqual
+1	Orca
+1	Porpoise
+1	Procurer
+1	Skiff
+1	Retriever
+1	Mackinaw
+1	Covetor
+1	Hulk
+3	Venture

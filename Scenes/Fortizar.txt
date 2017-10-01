@@ -1,0 +1,4 @@
+Scale: 1":6000m
+Base size: 10"x21"
+Stations:
+1	Fortizar

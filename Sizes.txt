@@ -1,0 +1,243 @@
+3D Print base: 8.9"x5.7"x5.9"
+
+OUTPOST
+Amarr: 34869m
+Caldari: 23688m
+Gallente: 52800m
+Minmatar: 21209m
+
+CITADEL
+Astrahus: 43km
+Fortizar: 104km
+Keepstar: 197km
+
+ENGINEERING COMPLEX
+Raitaru: 54km
+Azbel: 86km
+Sotiyo: 170km
+
+ORE
+Bowhead: 3034m
+Rorqual: 2449m
+Orca: 1451m
+Noctis/Porpoise: 859m
+Procurer/Skiff: 305m
+Retriever/Mackinaw: 411m
+Covetor/Hulk: 376m
+Venture: 133m
+Mining drone: 25m
+Excavator drone: 77m
+Salvage drone: 6m
+
+FREIGHTER
+Providence: 2484m
+Charon: 2461m
+Obelisk: 1162m
+Fenrir: 1926m
+
+INDUSTRIAL
+Bestower: 699m
+Sigil: 569m
+
+Badger: 390m
+Tayra: 557m
+
+Epithal: 553m
+Iteron Mark V: 1139m
+Kryos: 510m
+Miasmos: 297m
+Nereus: 413m
+
+Wreathe: 706m
+Hoarder: 930m
+Mammoth: 1249m
+
+TITAN
+Avatar: 13814m
+Leviathan: 18055m
+Erebus: 14785m
+Ragnarok: 18140m
+
+SUPERCARRIER
+Aeon: 4673m
+Wyvern: 3227m
+Nyx: 3318m
+Hel: 4028m
+
+DREADNOUGHT
+Revelation: 3820m
+Phoenix: 3756m
+Moros: 3225m
+Naglfar: 5137m
+
+CARRIER
+Archon: 3175m
+Chimera: 2707m
+Thanatos: 2268m
+Nidhoggur: 2188m
+
+BATTLESHIP
+Abaddon: 1254m
+Apocalypse: 1550m
+Armageddon: 1049m
+
+Raven: 806m
+Rokh: 1025m
+Scorpion: 828m
+
+Dominix: 998m
+Hyperion: 1509m
+Megathron: 1083m
+
+Maelstrom: 1484m
+Tempest: 923m
+Typhoon: 1072m
+
+Machariel: 1452m
+Nestor: 1467m
+Nightmare: 1013m
+
+BATTLECRUISER
+Harbinger: 397m
+Oracle: 429m
+Prophecy: 346m
+
+Drake: 534m
+Ferox: 505m
+Naga: 614m
+
+Brutix: 391m
+Myrmidon: 603m
+Talos: 529m
+
+Cyclone: 515m
+Hurricane: 486m
+Tornado: 549m
+
+CRUISER
+Arbitrator: 343m
+Augoror: 195m
+Maller: 258m
+Omen: 296m
+Legion: 419m
+
+Blackbird: 388m
+Caracal: 457m
+Moa: 334m
+Osprey: 348m
+Tengu: 346m
+
+Celestis: 157m
+Exequror: 310m
+Thorax: 296m
+Vexor: 239m
+Proteus: 473m
+
+Bellicose: 356m
+Rupture: 285m
+Scythe: 387m
+Stabber: 350m
+Loki: 399m
+
+Ashimmu: 274m
+Cynabal: 522m
+Phantasm: 288m
+Stratios: 404m
+
+DESTROYER
+Coercer: 288m
+Dragoon: 258m
+
+Corax: 259m
+Cormorant: 251m
+
+Algos: 239m
+Catalyst: 287m
+
+Talwar: 266m
+Thrasher: 271m
+
+FRIGATE
+Crucifier: 93m
+Executioner: 77m
+Inquisitor: 102m
+Magnate: 64m
+Punisher: 67m
+Tourmentor: 51m
+
+Bantam: 98m
+Condor: 89m
+Griffin: 110m
+Heron: 69m
+Kestrel: 103m
+Merlin: 97m
+Hookbill: 89m
+
+Atron: 63m
+Imicus: 65m
+Incursus: 72m
+Maulus: 75m
+Navitas: 69m
+Tristan: 79m
+Comet: 73m
+
+Breacher: 185m
+Burst: 128m
+Probe: 112m
+Rifter: 139m
+Slasher: 174m
+Vigil: 103m
+Firetail: 109m
+
+Astero: 67m
+Cruor: 61m
+Daredevil: 115m
+Dramiel: 108m
+Succubus: 139m
+
+FIGHTER BOMBER
+Malleus: 23m
+Mantis: 25m
+Cyclops: 23m
+Tyrfing: 28m
+
+FIGHTER
+Templar: 22m
+Dragonfly: 34m
+Firbolg: 19m
+Einherji: 19m
+
+SENTRY DRONE
+Curator: 11m
+Warden: 11m
+Garde: 11m
+Bouncer: 11m
+
+HEAVY DRONE
+Praetor: 10m
+Wasp: 10m
+Ogre: 9m
+Berserker: 15m
+Rogue 1: 128m
+Rogue 2: 78m
+
+MEDIUM DRONE
+Infiltrator: 7m
+Vespa: 7m
+Hammerhead: 5m
+Valkyrie: 12m
+Rogue 1: 34m
+Rogue 2: 40m
+Rogue 3: 77m
+Rogue 4: 50m
+
+LIGHT DRONE
+Acolyte: 6m
+Hornet: 8m
+Hobgoblin: 8m
+Warrior: 7m
+Rogue 1: 26m
+Rogue 2: 28m
+Rogue 3: 38m
+Rogue 4: 32m
+Rogue 5: 20m

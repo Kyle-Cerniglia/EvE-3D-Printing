@@ -1,0 +1,9 @@
+HYBRID
+Antimatter/Void: White with mild pink tint
+Iridium/Javelin: Light Green
+Iron: Light orange
+Lead: Teal
+Plutonium/Spike: White with blue tint
+Thorium/Null: Light blue
+Tungsten: Gold
+Uranium: White

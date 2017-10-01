@@ -1,0 +1,26 @@
+Scale: 1":8500m
+Base size: 
+Stations:
+Astrahus
+Raitaru
+
+Ships:
+CA
+2	Avatar
+1	Leviathan
+1	Aeon
+1	Wyvern
+2	Revelation
+3	Phoenix
+1	Archon
+1	Chimera
+
+GM
+1	Erebus
+1	Ragnarok
+2	Nyx
+1	Hel
+1	Moros
+1	Naglfar
+3	Thanatos
+2	Nidhoggur

@@ -1,0 +1,19 @@
+Scale: 1": 100m
+Base size: 
+Asteriods:
+1	Large
+1	Medium
+2	Small
+
+Ships:
+Convoy
+2	Wreathe
+1	Scythe
+1	Rupture
+1	Stabber
+1	Loki
+
+Angel Cartel
+2	Daredevil
+1	Dramiel
+2	Cynabal

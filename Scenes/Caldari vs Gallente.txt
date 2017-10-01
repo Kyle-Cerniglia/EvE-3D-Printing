@@ -1,0 +1,25 @@
+Scale: 1":100m
+Base size: 2'x1'
+Ships:
+Caldari
+1	Naga		Complete
+1	Ferox		Complete
+1	Drake
+1	Moa		Complete
+1	Caracal
+1	Cormorant	Complete
+1	Corax		Complete
+1	Merlin		Complete
+1	Kestrel		Complete
+1	Condor
+Gallente
+1	Talos		Complete
+1	Brutix
+1	Myrmidon
+1	Thorax		Complete
+1	Vexor		Printed
+1	Algos		Complete
+1	Catalyst	Complete
+1	Tristan		Complete
+1	Atron		Complete
+1	Incursus	Complete
