@@ -64,6 +64,12 @@ Wyvern: 3227m
 Nyx: 3318m
 Hel: 4028m
 
+FAX
+Apostle: 4600m
+Minokawa: 4684m
+Ninazu: 4217m
+Lif: 4067m
+
 DREADNOUGHT
 Revelation: 3820m
 Phoenix: 3756m
