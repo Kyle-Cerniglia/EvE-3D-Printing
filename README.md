@@ -1,6 +1,6 @@
 # EvE-3D-Printing
 
-If you have any model requests, eve-mail Netan MalDoran!
+NOTE: This repository is no longer maintained, feel free to fork it.
 
 
 CCP Copyright Notice
